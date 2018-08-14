@@ -5,4 +5,6 @@ Date: 14/August/2018
 This is a HTML class exercise. 
 
 - Embed Video 
-- Play audio.
+- Play audio. 
+- Google Map 
+- Playstore.
